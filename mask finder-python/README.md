@@ -114,9 +114,6 @@ The face mask detection system uses a Convolutional Neural Network (CNN) with th
 - **Processing Speed**: Under 2 seconds per image
 - **False Positive Rate**: Reduced by 20% compared to baseline models
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgements
 
